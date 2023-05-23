@@ -1,0 +1,11 @@
+Model Information:
+* title:	Truck Crane
+* source:	https://sketchfab.com/3d-models/truck-crane-87f3465442b440179526b369ac64ac0f
+* author:	Masina_120 (https://sketchfab.com/Masina_120)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Truck Crane" (https://sketchfab.com/3d-models/truck-crane-87f3465442b440179526b369ac64ac0f) by Masina_120 (https://sketchfab.com/Masina_120) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
